@@ -57,4 +57,10 @@ pip install opencv-python mediapipe numpy pycaw comtypes
 
     Make sure your webcam is properly connected.
 
-    Uses camera index 0 (default camera). Change it in cv2.VideoCapture(0) if needed.
+    Uses camera index 0 (default camera). Change it in cv2.VideoCapture(0) if needed. 
+    
+
+
+
+
+    Made with love by Arshal
